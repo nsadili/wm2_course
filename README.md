@@ -4,4 +4,3 @@ Editing...
 
 Welcome to the course!
 
-Changed
